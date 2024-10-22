@@ -8,5 +8,4 @@ I am a Java backend developer with more than 18 years of experience working in t
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Contact
-<a href="https://www.linkedin.com/in/rodrigobalazs/">
-  <img alt="Rodrigo Balazs on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
+[![Linkedin](https://img.shields.io/badge/-rodrigobalazs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigobalazs/)](https://www.linkedin.com/in/rodrigobalazs/)
