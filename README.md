@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I am a Java backend developer with more than 18 years of experience working in the software industry. I have also experience in the ecommerce ecosystem, in particular with Magento 2 / PHP.
+This is my github portfolio which contains a couple of personal repositories/projects mostly related to Java/Spring. Hope you find them useful to share / use.
 
 ### Languages / Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
