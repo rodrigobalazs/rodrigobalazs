@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Java backend developer with more than 18 years of experience working in the software industry. I have also experience in the ecommerce ecosystem, in particular with Magento 2 / PHP.
+I am a Java backend developer with more than 18 years of experience working in a broad range of industries e-commerce, social media, logistics, mobile.
 <br/><br/>
 This is my github portfolio which contains a couple of personal repositories/projects mostly related to Java/Spring. Hope you find these examples useful to share / reuse.
 
