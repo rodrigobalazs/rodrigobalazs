@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am a Java backend developer with more than 18 years of experience working in a broad range of industries e-commerce, social media, logistics, mobile.
+I am a Java backend developer with more than 18 years of experience working professionally as a software developer in a broad range of industries such as e-commerce, Social Media, 
+Automotive, Logistics, Mobile.
 <br/><br/>
 This is my github portfolio which contains a couple of personal repositories/projects mostly related to Java/Spring. Hope you find these examples useful to share / reuse.
 
