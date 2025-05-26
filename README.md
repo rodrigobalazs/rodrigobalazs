@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I am Java backend developer with over 8 years of professional experience across diverse industries including Logistics, Social Media, Automotive and Mobile. 
-In addition, I have more than 7 years of hands-on experience as a Magento 2 / PHP developer delivering e-commerce solutions. 
+I am a Software Developer with more than 18 years of professional experience across diverse industries including e-commerce, Logistics, Social Media, Automotive and Mobile. Currently working as a Java Backend Developer focused on Microservices / Spring Boot related stack.
 <br/><br/>
 This is my github portfolio which contains a couple of personal repositories/projects mostly related to Java/Spring. Hope you find these examples useful to share / reuse.
 
