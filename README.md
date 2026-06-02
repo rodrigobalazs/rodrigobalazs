@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Software Developer specialized in backend development with over 8 years of experience building scalable, high-performance solutions in 
+I am a Software Engineer specialized in backend development with over 8 years of experience building scalable, high-performance solutions in 
 Java. I have worked across multiple industries, including e-commerce, logistics, social media, automotive, and mobile. Additionally, I bring 
 7 years of experience in PHP development, including extensive work with Magento 2 ecosystem.
 <br/><br/>
