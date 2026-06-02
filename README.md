@@ -2,7 +2,7 @@
 
 I am a Software Developer specialized in backend development with over 8 years of experience building scalable, high-performance solutions in 
 Java. I have worked across multiple industries, including e-commerce, logistics, social media, automotive, and mobile. Additionally, I bring 
-7 years of experience in PHP development, including extensive work with Magento 2.
+7 years of experience in PHP development, including extensive work with Magento 2 ecosystem.
 <br/><br/>
 This is my github portfolio which contains a couple of personal repositories/projects mostly related to Java/Spring. Hope you find these examples useful to share / reuse.
 
